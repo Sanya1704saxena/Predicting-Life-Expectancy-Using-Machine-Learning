@@ -20,19 +20,19 @@ There were almost 22 columns stating different factors affecting Life expectancy
 We experimented with multiple models to achieve optimal performance:
 
 ** -Exploratory Data Analysis (EDA):**
-🔹 Visualized trends in life expectancy across different countries and income levels.
-🔹 Identified missing data and performed imputation.
+   Visualized trends in life expectancy across different countries and income levels.
+   Identified missing data and performed imputation.
 
  **-Feature Engineering:**
-🔹 Normalization and encoding of categorical features.
-🔹 Handling multicollinearity and feature selection.
+    Normalization and encoding of categorical features.
+    Handling multicollinearity and feature selection.
 
 **-Models Used:**
-🔹 Linear Regression – Baseline model for simple trend analysis.
-🔹 Random Forest Regressor – Improved accuracy by capturing complex relationships.
-🔹 Gradient Boosting Regressor – Best-performing model with optimized hyperparameters.
+    Linear Regression – Baseline model for simple trend analysis.
+    Random Forest Regressor – Improved accuracy by capturing complex relationships.
+    Gradient Boosting Regressor – Best-performing model with optimized hyperparameters.
 
 **-Evaluation Metrics:**
-🔹 R² Score: 0.94 (High predictive accuracy!)
-🔹 Mean Absolute Error (MAE): 1.2 years
+    R² Score: 0.94 (High predictive accuracy!)
+    Mean Absolute Error (MAE): 1.2 years
 
